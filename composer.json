@@ -2,7 +2,7 @@
     "name": "enm1989/geckodriver",
     "description": "Composer distribution of Geckodriver. Adds a executable to your composer bin directory.",
     "type": "library",
-    "version": "0.8",
+    "version": "0.8.2",
     "keywords": [
         "selenium",
         "firefox",
