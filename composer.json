@@ -1,0 +1,25 @@
+{
+    "name": "enm1989/geckodriver",
+    "description": "Composer distribution of Geckodriver. Adds a executable to your composer bin directory.",
+    "type": "library",
+    "keywords": [
+        "selenium",
+        "firefox",
+        "webdriver",
+        "geckodriver"
+    ],
+    "homepage": "https://github.com/ENM1989/geckodriver",
+    "license": "Mozilla Public License Version 2.0", 
+    "authors": [
+        {
+            "name": "Nico Müller",
+            "email": "nico.mueller.1989@googlemail.com"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
+    "bin": [
+        "bin/geckodriver"
+    ]
+}
