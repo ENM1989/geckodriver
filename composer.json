@@ -21,6 +21,6 @@
         "bin-dir": "bin"
     },
     "bin": [
-        "bin/geckodriver"
+        "bin/geckodriver.sh"
     ]
 }
