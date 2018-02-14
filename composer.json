@@ -9,7 +9,7 @@
         "geckodriver"
     ],
     "homepage": "https://github.com/ENM1989/geckodriver",
-    "license": "Mozilla Public License Version 2.0", 
+    "license": "MPL-2.0", 
     "authors": [
         {
             "name": "Nico Müller",
